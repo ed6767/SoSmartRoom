@@ -1,5 +1,5 @@
 # SoSmartRoom
-An intelligent and highly customisable room specific home control system for the Raspberry Pi 4 and other low power computers.
+An intelligent and highly customisable room specific home control system for the Raspberry Pi 4 and other low power computers programmed in Svelte
 
 ## IMPORTANT
 While SoSmartRoom is usable by everyone, setting it up and customising it REQUIRES knowledge of JavaScript and other frameworks. SoSmartRoom is also designed to be one room control only, i.e. one server and control unit per room.
