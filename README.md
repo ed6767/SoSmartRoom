@@ -21,3 +21,7 @@ This was made for my specific setup, but you can easily extend it to add your de
 
 ## What you need
 * This was developed and tested on a Raspberry Pi 4 4GB with a touchscreen running Raspberry Pi OS, with a Tapo smart plug, a TP-Link Kasa smart bulb, Nanoleaf pannels and a cheap Tuya individually addressable RGB LED strip.
+
+
+## Development
+`npm run dev`
